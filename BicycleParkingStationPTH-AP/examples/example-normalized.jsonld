@@ -33,7 +33,7 @@
         ]
   },
   "@context": [
-    "https://github.com/brechtvdv/dataModel.OSLO.PassengerTransportHubs/raw/master/context.jsonld",
+    "https://raw.githubusercontent.com/brechtvdv/dataModel.OSLO.PassengerTransportHubs/main/context.jsonld",
     "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
   ]
 }
