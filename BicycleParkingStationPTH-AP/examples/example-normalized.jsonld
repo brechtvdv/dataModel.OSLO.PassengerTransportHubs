@@ -1,15 +1,15 @@
 {
   "id": "https://data.velopark.be/data/NMBS_17",
-  "type": "BikeParking",
+  "type": "BicycleParkingStation",
   "ParkingFacility.^capacity": {
 	"type": "Relationship",
 	"object": {
     		"type": "RealTimeCapacity",
-    		"RealTimeCapacity.freePlacesvrijePlaatsen": {
+    		"RealTimeCapacity.freePlaces": {
 			"type": "Property",
 			"value": "10"
 		},
-    		"Capaciteit.totaal": {
+    		"Capacity.total": {
 			"type": "Property",
 			"value": "20"
 		}
