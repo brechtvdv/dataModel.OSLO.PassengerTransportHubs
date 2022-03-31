@@ -24,7 +24,7 @@
                 },
                 "ParkingFacility.^capacity": {
                     "type": "object",
-                    "description": "Property. Model:'http://schema.mobivoc.org/#capacity'. ",
+                    "description": "Property. Model:'http://schema.mobivoc.org/#capacity'. The capacity of the parking facility.",
                     "properties": {
                         "type": {
 			    "type": "string",
