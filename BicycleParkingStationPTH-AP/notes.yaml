@@ -1,8 +1,7 @@
 notesHeader:
-  notes appearing at the beginning of the spec
+  dataModel.OSLO.PassengerTransportHubs
 notesMiddle:
-  notes appearing in the middle of the spec
 notesFooter:
-  notes appearing in the middle of the spec
 notesReadme:
-  notes appearing in the beginning of the README.md at the root of the data model directory
+  These data models are mapped from version 2022-03-21 of the OSLO Passenger Transport Hubs (PTH) Application Profile (AP) standard. [Link](https://data.vlaanderen.be/doc/applicatieprofiel/Hoppinpunten)
+Currently, this is still a Dutch-only AP called "OSLO Hoppinpunten", but an English extension will be made "OSLO Passenger Transport Hubs" during the Greenmov project.
