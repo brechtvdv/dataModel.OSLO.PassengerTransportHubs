@@ -3,7 +3,7 @@
               {
                 "mv": "http://schema.mobivoc.org/#",
                 "xsd": "http://www.w3.org/2001/XMLSchema#",
-                "Parkingfacility.^capacity": {
+                "ParkingFacility.^capacity": {
                   	"@id": "mv:capacity",
                   	"@type": "xsd:integer"
                 },
